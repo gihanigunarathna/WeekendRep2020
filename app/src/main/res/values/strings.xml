@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Weekend_3</string>
     <string name="send_button">send</string>
-    <string name="user_message">Enter a message</string>
+    <string name="user_message">Enter a message to students</string>
 </resources>
